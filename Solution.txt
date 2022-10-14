@@ -1,0 +1,9 @@
+Solution:
+The contestant should read the prompt at the start saying "I'm Friderici and this is my window" and begin consulting the internet for answers.
+
+The contestant should then find a site on dCode regarding Friderici's cipher (https://www.dcode.fr/friderici-windows-cipher). It becomes obvious that each frame of cats corresponds to a window in the cipher.
+
+After the user enters in the windows and hits decrypt they will find the body of the flag.
+
+Flag:
+monkeyCTF{STARTINGFROMSCRATCH}
