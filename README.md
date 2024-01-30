@@ -1,5 +1,5 @@
 # Scratch-N-Glyph
-Beginner level cryptography challenge from ISSessions CTF
+Beginner level cryptography challenge from ISSessions CTF 2022
 
 Challenge Description:
 Some strange cats approach you and perform a cryptic dance.
